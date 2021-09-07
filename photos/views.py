@@ -54,4 +54,3 @@ def locations(request, location):
     locations = Image.get_image_by_location(location)
     return render(request, 'locations.html', {'locations': locations})
 
-

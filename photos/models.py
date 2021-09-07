@@ -72,5 +72,3 @@ class Image(models.Model):
         location = cls.objects.filter(location__name=location).all()
         return location
 
-
-
