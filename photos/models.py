@@ -71,4 +71,3 @@ class Image(models.Model):
     def get_image_by_location(cls, location):
         location = cls.objects.filter(location__name=location).all()
         return location
-
