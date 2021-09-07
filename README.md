@@ -1,7 +1,7 @@
 # Gallery
 
 ## Author
-Nicholas Owino
+Nicholas  Owino
 
 ## Description
 In life, you only have 60 seconds to impress someone. 1 minute can make or break you. How do we make sure that you use your 1 minute to actually say something meaningful?
