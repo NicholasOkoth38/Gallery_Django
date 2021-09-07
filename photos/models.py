@@ -73,3 +73,4 @@ class Image(models.Model):
         return location
 
 
+
