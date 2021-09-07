@@ -1,4 +1,4 @@
-# Nick's Creative
+# Gallery
 
 ## Author
 Nicholas Owino
