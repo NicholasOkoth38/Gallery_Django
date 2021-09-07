@@ -1,0 +1,21 @@
+{%extends 'base.html' %}
+
+{% block content %}
+{{block.super}}
+
+<div class="container">
+
+    <div class="row">
+        <h1 class="text-primary"> These are all the images for the location</h1>
+        {%for location in locations%}
+
+        <div class="col-md-3">
+
+            <img src="{{location.image.url}}" class="img-responsive" alt="{{image.name}}"
+                style="height:350px; width:500px">
+            <p class="text-primary text-center"> {{location.location}}</p>
+        </div>
+        {% endfor %}
+        {% endblock %}
+    </div>
+</div>
