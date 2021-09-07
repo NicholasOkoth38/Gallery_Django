@@ -1,9 +1,1 @@
 .env
-virtual
-images
-media
-photos
-staticfiles
-db.sqlite3
-manage.py
-Procfile
