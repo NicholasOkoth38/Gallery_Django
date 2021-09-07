@@ -6,4 +6,3 @@ class PhotosConfig(AppConfig):
     name = 'photos'
 
 
-
