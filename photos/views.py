@@ -55,3 +55,4 @@ def locations(request, location):
     return render(request, 'locations.html', {'locations': locations})
 
 
+
